@@ -68,13 +68,3 @@ jupyter notebook movie_sentiment_analyzer.ipynb
 
 Run the notebook cells in order to preprocess the reviews, train the model, and evaluate its performance.
 
-
-## Project Structure
-
-```text
-Movie-Sentiment-Analyzer/
-├── IMDB Dataset.csv
-├── requirements.txt
-├── movie_sentiment_analyzer.ipynb
-└── README.md
-```
